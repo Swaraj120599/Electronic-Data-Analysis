@@ -1,4 +1,5 @@
 # Eletronic-Data-Analysis
+![image](https://github.com/user-attachments/assets/bf575386-7a77-463b-860f-cd1e08db314a)
 
 
 From Above data  the conclusion I found that the store best selling product is smartphones and the least selling product is Headphones and tablets. For smartphones we can say that not more work on that for least selling product  we can do more offers on that product and most of the product selling during the period of Festivals .
