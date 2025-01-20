@@ -1,4 +1,4 @@
-# Eletronic-Data-Analysis
+# Electronic-Data-Analysis
 ![image](https://github.com/user-attachments/assets/bf575386-7a77-463b-860f-cd1e08db314a)
 
 
